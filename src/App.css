@@ -1,0 +1,143 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.bg {
+    font-family: 'Slabo 27px', serif;
+    margin: 10px;
+}
+
+.inner {
+	border: 1px solid black;
+	background-color: white;
+	margin-right: 10px;
+	margin-left: 10px;
+}
+
+.outer {
+	padding: 20px 0;
+	border-right: 2px solid black;
+	margin-right: 50px;
+  margin-left: 50px;
+	background-color: white;
+}
+
+.head {
+    background-color: white;
+    height: 50px;
+    display: flex;
+    justify-content: space-between;
+    padding: 5px;
+    position: fixed;
+    top: 0px;
+    right: 0px;
+    left: 0px;
+    z-index: 1;
+}
+
+.navli {
+    list-style: none;
+    display: inline-block;
+    margin-left: 10px;
+}
+
+.a {
+    text-decoration: none;
+}
+
+.section {
+    margin-left: 200px;
+    margin-right: 200px;
+    background-color: white;
+    position: relative;
+    top: 70px;
+    padding: 20px;
+    margin-bottom: 100px;
+}
+
+h1 {
+    text-align: center;
+}
+
+.article {
+    border-bottom: 1px solid lightgrey;
+}
+
+.h5 {
+    text-align: center;
+}
+
+.foot {
+    display: flex;
+    position: fixed;
+    width: 100%;
+    bottom: 0px;
+    right: 0px;
+    left: 0px;
+    background-color: black;
+    color: white;
+    height: 30px;
+    justify-content: center;
+    align-items: center;
+}
+
+.hometable{
+  border-bottom: 2px solid gray;
+  text-align: left;
+}
+
+.colum {
+  flex-direction: column;
+  margin-left: 10px;
+  flex: 1;
+}
+
+#components-layout-demo-top-side-2 .logo {
+  width: 120px;
+  height: 31px;
+  background: rgba(255, 255, 255, 0.2);
+  margin: 16px 28px 16px 0;
+  float: left;
+}
+
+.site-layout-background {
+  background: #fff;
+}
+
+
+

@@ -1,0 +1,48 @@
+.title {
+	position: absolute;
+	top: 30%;
+	left: 25%;
+    transform: translate(-50% -50%);
+}
+.title h1 {
+	font-family: sans-serif;
+	color: black;
+	font-size: 40px;
+}
+header {
+    background-image: url(../img/pattern.jpg);
+	height: 450px;
+	background-size: cover;
+	background-position: center;
+}
+.button{
+	position: absolute;
+	top: 45%;
+	left: 34%;
+	transform: translate(-50% -50%);
+}
+.btn1{
+	border: 2px solid black;
+	padding: 10px 30px;
+	color: black;
+	text-decoration: none;
+	transition: 0.6s ease;
+	border-radius: 15px;
+	margin: 10px;
+}
+.btn1:hover{
+	background-color: #fff;
+	color: #000
+}
+.btn2{
+	border: 2px solid black;
+	padding: 10px 30px;
+	color: black;
+	text-decoration: none;
+	transition: 0.6s ease;
+	border-radius: 15px;
+}
+.btn2:hover{
+	background-color: #fff;
+    color: #000
+}
