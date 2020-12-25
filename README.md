@@ -1,3 +1,19 @@
+Demo https://movie-list-proj.netlify.app/
+
+### Home Screen
+![home](https://user-images.githubusercontent.com/72017753/103133174-8babb400-46db-11eb-9cba-389454b139d4.JPG)
+
+### Register Screen
+![register](https://user-images.githubusercontent.com/72017753/103133212-beee4300-46db-11eb-8a16-27eac6d6fab4.JPG)
+
+### Movie List Screen
+![movie-list](https://user-images.githubusercontent.com/72017753/103133224-d62d3080-46db-11eb-98e9-bdfd684e1e1e.JPG)
+
+### Game List Screen
+![game-list](https://user-images.githubusercontent.com/72017753/103133245-ec3af100-46db-11eb-86d2-365ae6ce5408.JPG)
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
